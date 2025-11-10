@@ -1,7 +1,7 @@
 <div align="center">
   <img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" width="140" />
 
-  <h3>GtSync</h3>
+  <h3>GitSync</h3>
   <h4>Mobile git client for syncing a repository between remote and a local directory</h4>
   
   <p align="center">
