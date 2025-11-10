@@ -113,4 +113,3 @@ Consider [sponsoring](https://github.com/sponsors/ViscousPot)! Any help is hugel
 ## Acknowledgements
 
  - [JGit](https://github.com/eclipse-jgit/jgit)
-
