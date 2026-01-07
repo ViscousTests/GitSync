@@ -12,7 +12,7 @@
     <a href="#"><img src="https://img.shields.io/github/stars/ViscousPot/GitSync?v=1" alt="stars"></a>
   </p>
     <a href="#"><img alt="2024 Gem of the Year (Obsidian Tools)" src="https://img.shields.io/badge/2024%20Gem%20of%20the%20Year%20(Obsidian%20Tools)-grey?style=for-the-badge&logo=obsidian&logoColor=pink"></a>
-ss
+ssss
   <br />sss
   <br />sssss
 
